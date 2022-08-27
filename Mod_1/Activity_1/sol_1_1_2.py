@@ -1,7 +1,6 @@
 # Create a Python function that prints
 # a greeting with a name as the parameter.
 
-print(f"Hello {name}, how are you?")
 def test_func(name):
   print("Hello,", name)
   
