@@ -14,4 +14,3 @@ def pos_countdown(n):
 
 n=7
 pos_countdown(n)
-
